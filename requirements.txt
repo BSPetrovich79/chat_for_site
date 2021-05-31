@@ -1,0 +1,4 @@
+PyMySQL==1.0.2
+aiogram~=2.12.1
+telebot~=0.0.4
+keyboa~=2.2.8
